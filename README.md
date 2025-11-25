@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Hash Table
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
