@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0445-add-two-numbers-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Dynamic Programming
