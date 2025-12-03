@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
@@ -95,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABISHEKM2295/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
