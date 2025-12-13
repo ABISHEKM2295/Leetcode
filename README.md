@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ABISHEKM2295/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ABISHEKM2295/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Monotonic Stack
 |  |
 | ------- |
