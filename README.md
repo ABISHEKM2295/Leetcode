@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ABISHEKM2295/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ABISHEKM2295/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ABISHEKM2295/Leetcode/tree/master/0134-gas-station) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ABISHEKM2295/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Monotonic Stack
 |  |
