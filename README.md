@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/ABISHEKM2295/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ABISHEKM2295/Leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/ABISHEKM2295/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABISHEKM2295/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ABISHEKM2295/Leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/ABISHEKM2295/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ABISHEKM2295/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ABISHEKM2295/Leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/ABISHEKM2295/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABISHEKM2295/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
@@ -273,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/0054-spiral-matrix) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
