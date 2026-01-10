@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ABISHEKM2295/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ABISHEKM2295/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/ABISHEKM2295/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ABISHEKM2295/Leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABISHEKM2295/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ABISHEKM2295/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ABISHEKM2295/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
