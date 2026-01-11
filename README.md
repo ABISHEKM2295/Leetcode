@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ABISHEKM2295/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Linked List
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ABISHEKM2295/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ABISHEKM2295/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/ABISHEKM2295/Leetcode/tree/master/1390-four-divisors) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ABISHEKM2295/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ABISHEKM2295/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ABISHEKM2295/Leetcode/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/ABISHEKM2295/Leetcode/tree/master/0290-word-pattern) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
