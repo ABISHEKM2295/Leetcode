@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/0511-game-play-analysis-i) |
+| [0596-classes-with-at-least-5-students](https://github.com/ABISHEKM2295/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/1068-product-sales-analysis-i) |
 ## Enumeration
 |  |
