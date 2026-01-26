@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ABISHEKM2295/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ABISHEKM2295/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1200-minimum-absolute-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/ABISHEKM2295/Leetcode/tree/master/1390-four-divisors) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1200-minimum-absolute-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
