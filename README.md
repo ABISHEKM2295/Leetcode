@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ABISHEKM2295/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
