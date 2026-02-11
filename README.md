@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/ABISHEKM2295/Leetcode/tree/master/1390-four-divisors) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ABISHEKM2295/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Recursion
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
+| [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 ## Trie
 |  |
 | ------- |
