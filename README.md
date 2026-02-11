@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/ABISHEKM2295/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1211-queries-quality-and-percentage](https://github.com/ABISHEKM2295/Leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1484-group-sold-products-by-the-date](https://github.com/ABISHEKM2295/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ABISHEKM2295/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Enumeration
 |  |
