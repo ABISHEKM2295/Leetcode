@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ABISHEKM2295/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ABISHEKM2295/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ABISHEKM2295/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ABISHEKM2295/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ABISHEKM2295/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ABISHEKM2295/Leetcode/tree/master/0687-longest-univalue-path) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ABISHEKM2295/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ABISHEKM2295/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ABISHEKM2295/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ABISHEKM2295/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ABISHEKM2295/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ABISHEKM2295/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
