@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ABISHEKM2295/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ABISHEKM2295/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/0206-reverse-linked-list) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ABISHEKM2295/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/ABISHEKM2295/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
