@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ABISHEKM2295/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
