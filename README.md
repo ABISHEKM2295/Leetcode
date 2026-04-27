@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ABISHEKM2295/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ABISHEKM2295/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ABISHEKM2295/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ABISHEKM2295/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/0070-climbing-stairs) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABISHEKM2295/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ABISHEKM2295/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ABISHEKM2295/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ABISHEKM2295/Leetcode/tree/master/0077-combinations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ABISHEKM2295/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
