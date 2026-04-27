@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ABISHEKM2295/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ABISHEKM2295/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ABISHEKM2295/Leetcode/tree/master/0134-gas-station) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ABISHEKM2295/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ABISHEKM2295/Leetcode/tree/master/0152-maximum-product-subarray) |
