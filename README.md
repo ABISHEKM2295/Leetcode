@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1861-rotating-the-box](https://github.com/ABISHEKM2295/Leetcode/tree/master/1861-rotating-the-box) |
 | [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1861-rotating-the-box](https://github.com/ABISHEKM2295/Leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1861-rotating-the-box](https://github.com/ABISHEKM2295/Leetcode/tree/master/1861-rotating-the-box) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ABISHEKM2295/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
