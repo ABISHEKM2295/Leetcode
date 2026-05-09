@@ -10,19 +10,19 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        List<Integer> arr = new ArrayList<>();
-        for (ListNode head : lists) {
-            while (head != null) {
-                arr.add(head.val);
-                head = head.next;
+        ListNode dummy=new ListNode(0);
+        ListNode tail=dummy;
+        List<Integer> li=new ArrayList<>();
+        for(ListNode head:lists){
+            while(head!=null){
+                li.add(head.val);
+                head=head.next;
             }
         }
-        Collections.sort(arr);
-        ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
-        for (int value : arr) {
-            tail.next = new ListNode(value);
-            tail = tail.next;
+        Collections.sort(li);
+        for(int val:li){
+            tail.next=new ListNode(val);
+            tail=tail.next;
         }
         return dummy.next;
     }
