@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ABISHEKM2295/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ABISHEKM2295/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ABISHEKM2295/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ABISHEKM2295/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ABISHEKM2295/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ABISHEKM2295/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ABISHEKM2295/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ABISHEKM2295/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ABISHEKM2295/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ABISHEKM2295/Leetcode/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/ABISHEKM2295/Leetcode/tree/master/1390-four-divisors) |
