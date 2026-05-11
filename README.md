@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ABISHEKM2295/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0067-add-binary) |
 | [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
 |  |
 | ------- |
