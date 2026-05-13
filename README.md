@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ABISHEKM2295/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0394-decode-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ABISHEKM2295/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ABISHEKM2295/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ABISHEKM2295/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ABISHEKM2295/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ABISHEKM2295/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABISHEKM2295/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0567-permutation-in-string) |
