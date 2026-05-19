@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ABISHEKM2295/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/ABISHEKM2295/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/ABISHEKM2295/Leetcode/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ABISHEKM2295/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/ABISHEKM2295/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/ABISHEKM2295/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ABISHEKM2295/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/ABISHEKM2295/Leetcode/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
