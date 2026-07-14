@@ -5,14 +5,14 @@ class Solution {
             totgas+=gas[i];
             totcost+=cost[i];
         }
-        if(totgas < totcost) return -1;
-        int currgas=0,startidx=0;
+        if(totgas< totcost) return -1;
+        int currgas=0,s=0;
         for(int i=0;i<gas.length;i++){
-            currgas+=gas[i]-cost[i];
-            if(currgas< 0){
-                startidx=i+1;
+            currgas+=(gas[i]-cost[i]);
+            if(currgas < 0){
+                s=i+1;
                 currgas=0;
             }
-    }return startidx;
-}
+        }return s;
+    }
 }
