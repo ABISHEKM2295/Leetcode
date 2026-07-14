@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/ABISHEKM2295/Leetcode/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/ABISHEKM2295/Leetcode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/ABISHEKM2295/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/ABISHEKM2295/Leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/ABISHEKM2295/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/1068-product-sales-analysis-i) |
