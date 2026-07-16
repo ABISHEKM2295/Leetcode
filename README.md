@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ABISHEKM2295/Leetcode/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0560-subarray-sum-equals-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ABISHEKM2295/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/ABISHEKM2295/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
