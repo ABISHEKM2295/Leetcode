@@ -4,7 +4,7 @@ class Solution {
         for(int n:nums){
             res=Math.max(n,res);
         }
-        int currmax=1,currmin=1;
+        int currmin=1,currmax=1;
         for(int n:nums){
             int temp=currmax*n;
             currmax=Math.max(temp,Math.max(currmin*n,n));
