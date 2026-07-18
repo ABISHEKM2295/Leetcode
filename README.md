@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/ABISHEKM2295/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ABISHEKM2295/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/ABISHEKM2295/Leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1321-restaurant-growth](https://github.com/ABISHEKM2295/Leetcode/tree/master/1321-restaurant-growth) |
 | [1484-group-sold-products-by-the-date](https://github.com/ABISHEKM2295/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/ABISHEKM2295/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/1587-bank-account-summary-ii) |
