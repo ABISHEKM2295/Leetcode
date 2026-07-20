@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0560-subarray-sum-equals-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
+| [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ABISHEKM2295/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ABISHEKM2295/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ABISHEKM2295/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/ABISHEKM2295/Leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ABISHEKM2295/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ABISHEKM2295/Leetcode/tree/master/0134-gas-station) |
+| [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ABISHEKM2295/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ABISHEKM2295/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
