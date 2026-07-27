@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ABISHEKM2295/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ABISHEKM2295/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ABISHEKM2295/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ABISHEKM2295/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ABISHEKM2295/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ABISHEKM2295/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ABISHEKM2295/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ABISHEKM2295/Leetcode/tree/master/0242-valid-anagram) |
