@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ABISHEKM2295/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/ABISHEKM2295/Leetcode/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ABISHEKM2295/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/ABISHEKM2295/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ABISHEKM2295/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ABISHEKM2295/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/ABISHEKM2295/Leetcode/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ABISHEKM2295/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ABISHEKM2295/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/ABISHEKM2295/Leetcode/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/ABISHEKM2295/Leetcode/tree/master/1861-rotating-the-box) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ABISHEKM2295/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
