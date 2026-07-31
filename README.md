@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/ABISHEKM2295/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/ABISHEKM2295/Leetcode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/ABISHEKM2295/Leetcode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/ABISHEKM2295/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/ABISHEKM2295/Leetcode/tree/master/1164-product-price-at-a-given-date) |
