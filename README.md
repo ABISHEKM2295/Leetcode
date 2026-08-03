@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0560-subarray-sum-equals-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
+| [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ABISHEKM2295/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ABISHEKM2295/Leetcode/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ABISHEKM2295/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/ABISHEKM2295/Leetcode/tree/master/1390-four-divisors) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/ABISHEKM2295/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -539,4 +542,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ABISHEKM2295/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
