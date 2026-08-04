@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/ABISHEKM2295/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3731-find-missing-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
