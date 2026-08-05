@@ -11,8 +11,7 @@ class Solution {
                 l--;
                 r++;
             }
-            l=i;
-            r=i+1;
+            l=i;r=i+1;
             while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
                 if(r-l > e-st){
                     st=l;
