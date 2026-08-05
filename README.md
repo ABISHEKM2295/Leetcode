@@ -568,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABISHEKM2295/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
