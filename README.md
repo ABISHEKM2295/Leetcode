@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ABISHEKM2295/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ABISHEKM2295/Leetcode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/ABISHEKM2295/Leetcode/tree/master/0486-predict-the-winner) |
+| [0554-brick-wall](https://github.com/ABISHEKM2295/Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ABISHEKM2295/Leetcode/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ABISHEKM2295/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0554-brick-wall](https://github.com/ABISHEKM2295/Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
