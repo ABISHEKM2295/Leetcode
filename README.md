@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ABISHEKM2295/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/ABISHEKM2295/Leetcode/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/ABISHEKM2295/Leetcode/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ABISHEKM2295/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ABISHEKM2295/Leetcode/tree/master/0134-gas-station) |
 | [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ABISHEKM2295/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ABISHEKM2295/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ABISHEKM2295/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
