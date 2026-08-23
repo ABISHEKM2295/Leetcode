@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ABISHEKM2295/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ABISHEKM2295/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/ABISHEKM2295/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/1927-sum-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ABISHEKM2295/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ABISHEKM2295/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ABISHEKM2295/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/1927-sum-game) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/ABISHEKM2295/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2833-furthest-point-from-origin](https://github.com/ABISHEKM2295/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ABISHEKM2295/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ABISHEKM2295/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ABISHEKM2295/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/1927-sum-game) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ABISHEKM2295/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ABISHEKM2295/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
