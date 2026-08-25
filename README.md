@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ABISHEKM2295/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ABISHEKM2295/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
