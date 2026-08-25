@@ -1,6 +1,4 @@
-SELECT *
-FROM 
-    users
-WHERE 
-    mail REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode\\.com$' 
-    AND mail LIKE BINARY '%@leetcode.com';
+# Write your MySQL query statement below
+select *
+from Users
+where regexp_like(mail,'^[A-Za-z][A-Za-z0-9-._]*@leetcode[.]com$','c');
