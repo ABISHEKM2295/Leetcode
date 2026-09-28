@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ABISHEKM2295/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
 | ------- |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/ABISHEKM2295/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/ABISHEKM2295/Leetcode/tree/master/3583-count-special-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/ABISHEKM2295/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Sorting
 |  |
 | ------- |
