@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ABISHEKM2295/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ABISHEKM2295/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ABISHEKM2295/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
