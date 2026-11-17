@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ABISHEKM2295/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ABISHEKM2295/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ABISHEKM2295/Leetcode/tree/master/0202-happy-number) |
+| [0343-integer-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0343-integer-break) |
 | [0445-add-two-numbers-ii](https://github.com/ABISHEKM2295/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/ABISHEKM2295/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ABISHEKM2295/Leetcode/tree/master/0877-stone-game) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ABISHEKM2295/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/ABISHEKM2295/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ABISHEKM2295/Leetcode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/ABISHEKM2295/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/ABISHEKM2295/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ABISHEKM2295/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ABISHEKM2295/Leetcode/tree/master/0486-predict-the-winner) |
