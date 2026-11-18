@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ABISHEKM2295/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/ABISHEKM2295/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2833-furthest-point-from-origin](https://github.com/ABISHEKM2295/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ABISHEKM2295/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/ABISHEKM2295/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ABISHEKM2295/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABISHEKM2295/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
